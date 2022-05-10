@@ -1,9 +1,9 @@
 # Eezee-Interview
 
-**Assignment:** Replicate Figma Wireframe
+**Assignment:** Replicate Figma Wireframe <br/>
 **Deadline:** 10th May 2022, 2359Hrs
 
-**Framework:** NextJS
+**Framework:** NextJS  <br/>
 **UI Library:** Ant Design
 
 **Getting Started:**
