@@ -7,7 +7,7 @@ function ProductCtn({ product }) {
   return (
     <div
       className="card"
-      style={{ padding: "16px", flex: 1, margin: "0px 16px 0px 0px" }}
+      style={{ padding: "16px", flex: 1, margin: "0px 16px 40px 0px" }}
     >
       <span className="text-24">{product.name}</span>
       <div

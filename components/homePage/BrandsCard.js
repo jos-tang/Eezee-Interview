@@ -22,15 +22,17 @@ export default function BrandsCard({ brands }) {
             Browse the full catalog of brands today
           </span>
         </div>
-        <div className="eezee-blue">
-          <span className="text-14">View More </span>
-          <RightOutlined />
+        <div className="row" style={{ alignItems: "flex-end" }}>
+          <div className="row align eezee-blue">
+            <span className="text-14">View All </span>
+            <RightOutlined />
+          </div>
         </div>
       </div>
       <Row>
         {brands.map((item, i) => (
           <Col span={4} key={i}>
-            <div className="card" bodyStyle={{ padding: "0px" }}>
+            <div className="card">
               <div
                 className="row center align"
                 style={{
