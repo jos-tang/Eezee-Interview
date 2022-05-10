@@ -4,6 +4,7 @@
 **Deadline:** 10th May 2022, 2359Hrs
 
 **Framework:** NextJS  <br/>
+**Language:** Javascript  <br/>
 **UI Library:** Ant Design
 
 **Getting Started:**
