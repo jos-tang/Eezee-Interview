@@ -1,0 +1,108 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Layout */
+.pageMaxWidth {
+  max-width: 65%;
+  margin: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.divider {
+  height: 16px;
+}
+
+/* Colour palette */
+.eezee-blue {
+  color: #2a64db !important;
+}
+
+.grey-primary {
+  color: #55585d;
+}
+
+.grey-base {
+  color: #242528;
+}
+
+.theme-primary {
+  background: #2a64db !important;
+  color: white !important;
+}
+
+/* Font sizes */
+.text-10 {
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 12px;
+}
+
+.text-12 {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.text-14 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+.text-16 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.text-20 {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+.text-24 {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+}
+
+.text-30 {
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 38px;
+}
+
+/* Card Container */
+.card {
+  margin: 4px;
+  border: 1px solid #e4e5e7;
+  border-radius: 4px;
+  background: white;
+}
+
+.click:hover {
+  cursor: pointer;
+}
+
+/* Flexbox */
+.row {
+  display: flex;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.align {
+  align-items: center;
+}
+
+.center {
+  justify-content: center;
+}
